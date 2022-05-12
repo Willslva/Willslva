@@ -1,5 +1,3 @@
-
-
 [![author](https://img.shields.io/badge/author-williamsilva-red.svg)](https://www.linkedin.com/in/william-silva-a4489621a/) [![](https://img.shields.io/badge/python-3.9.7+-blue.svg)](https://www.python.org/downloads/release/python-397/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 <p align="center">
