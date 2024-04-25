@@ -21,7 +21,6 @@ Minhas credenciais incluem graduação em Gestão da Informação pela Universid
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/william-silva-a4489621a/)
-* [Blog](https://chuvadedados.wixsite.com/my-site)
 
 
 ## Projetos:
