@@ -15,7 +15,6 @@ Minhas credenciais incluem graduação em Gestão da Informação pela Universid
 
 **Hard Skills:**
 
-* Experiência em modelagem de banco de dados (identificação de entidades, design de modelo dimensional, criação de modelo lógico e físico)
 * Experiência em Python (pacotes de estatística, manipulação e visualização de dados);
 * Experiência em SQL
 
