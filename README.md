@@ -1,13 +1,4 @@
-
-
-# William Silva
-<sub>*Cientista de Dados*</sub>
-
 Este é um portfólio de problemas do mundo real que são resolvidos combinando habilidades analíticas com atenção aos detalhes.
-
-Minhas credenciais incluem graduação em Gestão da Informação pela Universidade Federal de Pernambuco (UFPE), e Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB - Campus Cajazeiras).
-
-
 
 **Hard Skills:**
 
