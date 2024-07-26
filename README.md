@@ -1,4 +1,3 @@
-Este é um portfólio de problemas do mundo real.
 
 **Hard Skills:**
 
