@@ -1,4 +1,4 @@
-Este é um portfólio de problemas do mundo real que são resolvidos combinando habilidades analíticas com atenção aos detalhes.
+Este é um portfólio de problemas do mundo real.
 
 **Hard Skills:**
 
