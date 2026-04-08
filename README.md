@@ -9,7 +9,6 @@
 
 
 ## Projetos:
-Veja os projetos publicados por mim:
 
 * **Câncer de Mama & Data Science:** [Câncer](https://github.com/Willslva/Cancer_de_Mama)
 <p align="justify"> Esse é um projeto definido como end-to-end, em que iremos passar por todas as etapas que precisam ser realizadas comumente em todo projeto que envolve a ciência dos dados, tendo a pretensão de utilizar machine learning para detectar determinada massa celular como tumor de tipo benigno ou maligno, sendo analisado o conjunto de dados de diagnóstico do Estado no centro-oeste dos EUA chamado Wisconsin.</p>
